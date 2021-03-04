@@ -9,7 +9,7 @@
 <body>
 <div class="container">
     <div  class="jumbotron" id="Ueberschrift">
-        <h1><p class="text-primary">Schiffers</p></h1>
+        <h1><p class="text-primary"></p>Schiffers</h1>
     </div>
     <div class="row">
         <div class="col">
