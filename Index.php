@@ -17,7 +17,7 @@
     <div class="row">
         <div class="col">
             <div class="jumbotron" id="Bianca">
-                <a href="#" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fas fa-heart"></i> Bianca</a>
+                <a href="#" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle"><i class="fas fa-dog"></i> Bianca</a>
                 <ul aria-labelledby="dropdownMenu1" class="dropdown-menu border-0 shadow">
                     <li><a href="#" class="dropdown-item">Mama</a></li>
                     <li><a href="#" class="dropdown-item">liebt Tiere</a></li>
