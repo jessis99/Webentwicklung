@@ -1,9 +1,15 @@
 body {
-    background-color: aquamarine;
+    background-color: purple;
+}
+
+.jumbotron {
+    font-weight: bold;
 }
 
 #Ueberschrift {
     background-color: plum;
+    margin-top: 25px;
+    text-align: -moz-center;
 }
 
 #Bianca {
@@ -22,7 +28,7 @@ body {
 }
 
 #Melina {
-    background-color: deepskyblue;
+    background-image: url("Melina.jpeg");
     text-align: center;
 }
 
@@ -37,6 +43,11 @@ body {
 }
 
 #Matthias {
+    background-color: deepskyblue;
+    text-align: center;
+}
+
+#Erik {
     background-color: deepskyblue;
     text-align: center;
 }
