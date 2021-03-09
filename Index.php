@@ -13,6 +13,9 @@
 <div class="container">
     <div  class="jumbotron" id="Ueberschrift">
         <h1><p class="text-primary"></p><i class="fas fa-ship"></i> Die Schiffers</h1>
+        <div id="BildSchiffers">
+            <img src="BildSchiffers.jpeg" height="150px"/>
+        </div>
     </div>
     <div class="row">
         <div class="col">

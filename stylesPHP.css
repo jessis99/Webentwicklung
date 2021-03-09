@@ -1,5 +1,5 @@
 body {
-    background-color: purple;
+    background-image: url("schöneLandschaftWattenmeer.jpg");
 }
 
 .jumbotron {
@@ -28,7 +28,7 @@ body {
 }
 
 #Melina {
-    background-image: url("Melina.jpeg");
+    background-color: deepskyblue;
     text-align: center;
 }
 
@@ -50,4 +50,10 @@ body {
 #Erik {
     background-color: deepskyblue;
     text-align: center;
+}
+
+#BildSchiffers {
+    position: absolute;
+    top: 50px;
+    right: 250px;
 }
